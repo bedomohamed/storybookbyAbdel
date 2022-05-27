@@ -1,8 +1,4 @@
-// export const Sidebar = () => {
-//     return (<h1>Sidebar</h1>);
-//   }
-  
-import "./Sidebar.css";
+  import "./Sidebar.css";
 function SidebarLink({ text }) {
     return(
       <div className="link" >
